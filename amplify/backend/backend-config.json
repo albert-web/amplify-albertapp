@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "amplifyalbertapp3423ae23": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
